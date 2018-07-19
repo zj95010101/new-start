@@ -5,6 +5,7 @@
     <title>Document</title>
 </head>
 <center/>
+
 <h1 style="color: #c0c0c0;">汽车租赁金额计算</h1>
 dev
 <form action="demo2.php" method="post">
