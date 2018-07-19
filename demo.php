@@ -6,7 +6,7 @@
 </head>
 <center/>
 <h1 style="color: #c0c0c0;">汽车租赁金额计算</h1>
-222222
+dev
 <form action="demo2.php" method="post">
     <h2 style="color: #c0c0c0;">请输入选择车型</h2>
     <div class="box">
